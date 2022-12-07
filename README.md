@@ -45,3 +45,8 @@ Faça um comando SQL que retorne o nome de todas as mulheres matriculadas no cur
 Faça um comando SQL que retorne os nomes dos cursos ordenados por ordem alfabética.
 ## Resolução
 ![quest9](https://user-images.githubusercontent.com/102304929/206317689-96cf126c-ea65-4f4e-a0e2-f7b6ed4c38dd.png)
+
+## Questão 10
+Crie o enunciado de uma consulta SQL que utilize “junção” (com resposta).
+## Resolução
+![quest10](https://user-images.githubusercontent.com/102304929/206317982-c9968ae9-c0f0-478a-822c-8c5a7a1aa9d7.png)
